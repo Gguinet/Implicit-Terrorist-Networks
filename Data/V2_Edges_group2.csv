@@ -1,0 +1,103 @@
+Source,Target,Weight
+Colombia,Peru,38.08556
+Colombia,Argentina,17.70534
+Colombia,Brazil,38.80947999999999
+Colombia,Bolivia,23.54319
+Peru,Brazil,23.0505
+Argentina,Brazil,23.44947
+Brazil,Bolivia,21.72238
+Nicaragua,Honduras,26.47345
+El Salvador,Guatemala,32.105419999999995
+Colombia,Venezuela,28.932969999999997
+Venezuela,Brazil,20.18231
+Colombia,Honduras,17.11358
+United Kingdom,United States,24.69293
+United Kingdom,France,26.29694
+United Kingdom,Ireland,17.84545
+United Kingdom,Belgium,19.344939999999998
+United States,France,31.71061
+United States,Germany,19.663180000000004
+United States,Netherlands,18.8692
+France,Germany,20.537570000000002
+France,Belgium,17.20596
+France,Netherlands,19.74359
+Spain,Italy,18.34732
+Spain,France,20.20634
+Spain,Netherlands,18.34732
+Italy,France,27.815969999999993
+Italy,Germany,27.16388
+Italy,Netherlands,18.34732
+Colombia,Lebanon,19.75683
+Brazil,Lebanon,22.116369999999996
+Colombia,El Salvador,38.10809
+Colombia,Guatemala,45.28313
+Colombia,Philippines,27.289
+El Salvador,Brazil,28.517319999999998
+El Salvador,Philippines,17.896679999999996
+El Salvador,Bolivia,19.776020000000003
+Guatemala,Brazil,21.49964
+Guatemala,Philippines,17.896679999999996
+United States,Russia,24.228970000000004
+United States,Canada,31.299629999999997
+Russia,Canada,32.97027
+Russia,Zimbabwe,21.721040000000002
+Canada,Zimbabwe,21.721040000000002
+Colombia,Chad,18.13362
+Colombia,Algeria,18.13362
+Colombia,Russia,25.1513
+Colombia,India,25.1513
+Colombia,Sudan,18.13362
+Chad,France,17.25696
+Chad,Algeria,18.13362
+Chad,Russia,25.998260000000002
+Chad,India,18.13362
+Chad,Sudan,18.13362
+Chad,Philippines,25.998260000000002
+France,Russia,27.65923
+France,Philippines,17.25696
+Algeria,Russia,18.13362
+Algeria,India,18.13362
+Algeria,Sudan,18.13362
+Algeria,Philippines,18.13362
+Russia,India,25.1513
+Russia,Sudan,18.13362
+Russia,Philippines,25.998260000000002
+India,Sudan,18.13362
+India,Philippines,18.13362
+Sudan,Philippines,18.13362
+Colombia,Turkey,21.935029999999998
+El Salvador,Turkey,21.935029999999998
+Guatemala,Turkey,26.64615
+Guatemala,Lebanon,21.474999999999998
+Argentina,Russia,19.143569999999997
+Argentina,Canada,21.503109999999996
+Brazil,Russia,19.143569999999997
+Brazil,Canada,21.503109999999996
+Turkey,Lebanon,21.474999999999998
+Canada,Thailand,18.96548
+United Kingdom,Italy,19.9239
+United Kingdom,Canada,18.31989
+United States,Italy,25.33757
+United States,Norway,18.266910000000003
+United States,Austria,20.626450000000002
+Italy,Norway,18.266910000000003
+Italy,Russia,18.266910000000003
+Italy,Canada,25.33757
+Italy,Austria,20.626450000000002
+France,Norway,18.266910000000003
+France,Canada,25.33757
+France,Austria,20.626450000000002
+Germany,Norway,18.266910000000003
+Germany,Russia,18.266910000000003
+Germany,Canada,18.266910000000003
+Germany,Austria,18.266910000000003
+Norway,Russia,18.266910000000003
+Norway,Canada,18.266910000000003
+Norway,Austria,18.266910000000003
+Russia,Austria,18.266910000000003
+Canada,Austria,20.626450000000002
+Spain,United States,17.47293
+Spain,Canada,17.47293
+Italy,Brazil,20.784390000000002
+Germany,Brazil,18.42485
+Canada,Netherlands,17.47293

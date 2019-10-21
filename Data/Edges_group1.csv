@@ -1,0 +1,868 @@
+Source,Target,Weight
+Afghanistan,Pakistan,14
+Afghanistan,Turkmenistan,1
+Pakistan,Turkmenistan,1
+Sri Lanka,India,8
+Sri Lanka,Spain,2
+Sri Lanka,Italy,2
+India,Spain,2
+India,Italy,3
+Spain,Italy,2
+Afghanistan,United States,2
+Afghanistan,Kenya,1
+Afghanistan,Spain,1
+Afghanistan,United Kingdom,2
+Afghanistan,Turkey,2
+Afghanistan,Yemen,2
+Afghanistan,Tanzania,1
+Afghanistan,Tunisia,1
+Afghanistan,Somalia,1
+Afghanistan,West Bank and Gaza Strip,2
+Afghanistan,France,2
+Pakistan,United States,2
+Pakistan,Kenya,1
+Pakistan,Spain,2
+Pakistan,United Kingdom,1
+Pakistan,Turkey,3
+Pakistan,Yemen,4
+Pakistan,Tanzania,1
+Pakistan,Tunisia,1
+Pakistan,Somalia,2
+Pakistan,West Bank and Gaza Strip,3
+Pakistan,France,2
+United States,Kenya,1
+United States,Spain,1
+United States,United Kingdom,1
+United States,Turkey,1
+United States,Yemen,1
+United States,Tanzania,1
+United States,Tunisia,1
+United States,Somalia,1
+United States,West Bank and Gaza Strip,1
+United States,France,1
+Kenya,Spain,1
+Kenya,United Kingdom,1
+Kenya,Turkey,1
+Kenya,Yemen,1
+Kenya,Tanzania,1
+Kenya,Tunisia,1
+Kenya,Somalia,1
+Kenya,West Bank and Gaza Strip,1
+Kenya,France,1
+Spain,United Kingdom,1
+Spain,Turkey,2
+Spain,Yemen,2
+Spain,Tanzania,1
+Spain,Tunisia,1
+Spain,Somalia,1
+Spain,West Bank and Gaza Strip,1
+Spain,France,2
+United Kingdom,Turkey,2
+United Kingdom,Yemen,1
+United Kingdom,Tanzania,1
+United Kingdom,Tunisia,1
+United Kingdom,Somalia,1
+United Kingdom,West Bank and Gaza Strip,1
+United Kingdom,France,3
+Turkey,Yemen,3
+Turkey,Tanzania,1
+Turkey,Tunisia,1
+Turkey,Somalia,1
+Turkey,West Bank and Gaza Strip,2
+Turkey,France,3
+Yemen,Tanzania,1
+Yemen,Tunisia,1
+Yemen,Somalia,1
+Yemen,West Bank and Gaza Strip,2
+Yemen,France,2
+Tanzania,Tunisia,1
+Tanzania,Somalia,1
+Tanzania,West Bank and Gaza Strip,1
+Tanzania,France,1
+Tunisia,Somalia,1
+Tunisia,West Bank and Gaza Strip,1
+Tunisia,France,1
+Somalia,West Bank and Gaza Strip,1
+Somalia,France,1
+West Bank and Gaza Strip,France,1
+India,Pakistan,15
+India,Philippines,7
+Pakistan,Philippines,3
+India,Japan,1
+India,Canada,1
+India,Iran,5
+Pakistan,Japan,1
+Pakistan,Canada,1
+Pakistan,Iran,3
+Japan,Canada,1
+Japan,Iran,1
+Canada,Iran,1
+Afghanistan,India,8
+India,Nepal,5
+India,Thailand,7
+India,Peru,3
+Nepal,Thailand,1
+Nepal,Peru,1
+Thailand,Peru,1
+Philippines,Malaysia,2
+Sri Lanka,Pakistan,4
+Sri Lanka,Bangladesh,3
+Sri Lanka,Thailand,4
+Sri Lanka,Indonesia,3
+Sri Lanka,Myanmar,1
+Sri Lanka,Turkey,3
+Sri Lanka,Iraq,2
+Sri Lanka,Uganda,2
+Sri Lanka,Nigeria,4
+Sri Lanka,Yemen,2
+Sri Lanka,Cameroon,2
+Sri Lanka,Iran,4
+Sri Lanka,Senegal,1
+Sri Lanka,Papua New Guinea,1
+Sri Lanka,Sudan,1
+Sri Lanka,Angola,1
+Sri Lanka,Azerbaijan,1
+Sri Lanka,French Guiana,1
+Sri Lanka,Mali,1
+Sri Lanka,Kosovo,1
+Sri Lanka,France,3
+Sri Lanka,Comoros,1
+Sri Lanka,Taiwan,1
+Sri Lanka,Guadeloupe,1
+Sri Lanka,Georgia,1
+India,Bangladesh,6
+India,Indonesia,3
+India,Myanmar,2
+India,Turkey,3
+India,Iraq,3
+India,Uganda,2
+India,Nigeria,5
+India,Yemen,3
+India,Cameroon,2
+India,Senegal,1
+India,Papua New Guinea,1
+India,Sudan,1
+India,Angola,1
+India,Azerbaijan,1
+India,French Guiana,1
+India,Mali,1
+India,Kosovo,1
+India,France,3
+India,Comoros,1
+India,Taiwan,1
+India,Guadeloupe,1
+India,Georgia,1
+Pakistan,Bangladesh,6
+Pakistan,Thailand,4
+Pakistan,Indonesia,4
+Pakistan,Myanmar,1
+Pakistan,Iraq,4
+Pakistan,Uganda,1
+Pakistan,Nigeria,6
+Pakistan,Cameroon,2
+Pakistan,Senegal,1
+Pakistan,Papua New Guinea,1
+Pakistan,Sudan,1
+Pakistan,Angola,1
+Pakistan,Azerbaijan,2
+Pakistan,French Guiana,1
+Pakistan,Mali,1
+Pakistan,Kosovo,1
+Pakistan,Comoros,1
+Pakistan,Taiwan,1
+Pakistan,Guadeloupe,1
+Pakistan,Georgia,1
+Pakistan,Italy,2
+Bangladesh,Thailand,4
+Bangladesh,Indonesia,4
+Bangladesh,Myanmar,1
+Bangladesh,Spain,1
+Bangladesh,Turkey,2
+Bangladesh,Iraq,1
+Bangladesh,Uganda,1
+Bangladesh,Nigeria,3
+Bangladesh,Yemen,3
+Bangladesh,Cameroon,2
+Bangladesh,Iran,3
+Bangladesh,Senegal,1
+Bangladesh,Papua New Guinea,1
+Bangladesh,Sudan,1
+Bangladesh,Angola,1
+Bangladesh,Azerbaijan,2
+Bangladesh,French Guiana,1
+Bangladesh,Mali,1
+Bangladesh,Kosovo,1
+Bangladesh,France,1
+Bangladesh,Comoros,1
+Bangladesh,Taiwan,1
+Bangladesh,Guadeloupe,1
+Bangladesh,Georgia,1
+Bangladesh,Italy,2
+Thailand,Indonesia,3
+Thailand,Myanmar,4
+Thailand,Spain,1
+Thailand,Turkey,2
+Thailand,Iraq,2
+Thailand,Uganda,1
+Thailand,Nigeria,4
+Thailand,Yemen,2
+Thailand,Cameroon,2
+Thailand,Iran,3
+Thailand,Senegal,1
+Thailand,Papua New Guinea,1
+Thailand,Sudan,1
+Thailand,Angola,1
+Thailand,Azerbaijan,1
+Thailand,French Guiana,1
+Thailand,Mali,1
+Thailand,Kosovo,1
+Thailand,France,1
+Thailand,Comoros,1
+Thailand,Taiwan,1
+Thailand,Guadeloupe,1
+Thailand,Georgia,1
+Thailand,Italy,2
+Indonesia,Myanmar,1
+Indonesia,Spain,1
+Indonesia,Turkey,2
+Indonesia,Iraq,1
+Indonesia,Uganda,1
+Indonesia,Nigeria,3
+Indonesia,Yemen,2
+Indonesia,Cameroon,2
+Indonesia,Iran,2
+Indonesia,Senegal,1
+Indonesia,Papua New Guinea,1
+Indonesia,Sudan,1
+Indonesia,Angola,1
+Indonesia,Azerbaijan,2
+Indonesia,French Guiana,1
+Indonesia,Mali,1
+Indonesia,Kosovo,1
+Indonesia,France,1
+Indonesia,Comoros,1
+Indonesia,Taiwan,1
+Indonesia,Guadeloupe,1
+Indonesia,Georgia,1
+Indonesia,Italy,1
+Myanmar,Spain,1
+Myanmar,Turkey,1
+Myanmar,Iraq,1
+Myanmar,Uganda,1
+Myanmar,Nigeria,1
+Myanmar,Yemen,1
+Myanmar,Cameroon,1
+Myanmar,Iran,1
+Myanmar,Senegal,1
+Myanmar,Papua New Guinea,1
+Myanmar,Sudan,1
+Myanmar,Angola,1
+Myanmar,Azerbaijan,1
+Myanmar,French Guiana,1
+Myanmar,Mali,1
+Myanmar,Kosovo,1
+Myanmar,France,1
+Myanmar,Comoros,1
+Myanmar,Taiwan,1
+Myanmar,Guadeloupe,1
+Myanmar,Georgia,1
+Myanmar,Italy,1
+Spain,Iraq,1
+Spain,Uganda,1
+Spain,Nigeria,1
+Spain,Cameroon,1
+Spain,Iran,1
+Spain,Senegal,1
+Spain,Papua New Guinea,1
+Spain,Sudan,1
+Spain,Angola,1
+Spain,Azerbaijan,1
+Spain,French Guiana,1
+Spain,Mali,1
+Spain,Kosovo,1
+Spain,Comoros,1
+Spain,Taiwan,1
+Spain,Guadeloupe,1
+Spain,Georgia,1
+Turkey,Iraq,1
+Turkey,Uganda,1
+Turkey,Nigeria,2
+Turkey,Cameroon,2
+Turkey,Iran,2
+Turkey,Senegal,1
+Turkey,Papua New Guinea,1
+Turkey,Sudan,1
+Turkey,Angola,1
+Turkey,Azerbaijan,1
+Turkey,French Guiana,1
+Turkey,Mali,1
+Turkey,Kosovo,1
+Turkey,Comoros,1
+Turkey,Taiwan,1
+Turkey,Guadeloupe,1
+Turkey,Georgia,1
+Turkey,Italy,1
+Iraq,Uganda,1
+Iraq,Nigeria,4
+Iraq,Yemen,1
+Iraq,Cameroon,1
+Iraq,Iran,1
+Iraq,Senegal,1
+Iraq,Papua New Guinea,1
+Iraq,Sudan,1
+Iraq,Angola,1
+Iraq,Azerbaijan,1
+Iraq,French Guiana,1
+Iraq,Mali,1
+Iraq,Kosovo,1
+Iraq,France,1
+Iraq,Comoros,1
+Iraq,Taiwan,1
+Iraq,Guadeloupe,1
+Iraq,Georgia,1
+Iraq,Italy,2
+Uganda,Nigeria,1
+Uganda,Yemen,1
+Uganda,Cameroon,1
+Uganda,Iran,2
+Uganda,Senegal,1
+Uganda,Papua New Guinea,1
+Uganda,Sudan,2
+Uganda,Angola,2
+Uganda,Azerbaijan,1
+Uganda,French Guiana,1
+Uganda,Mali,1
+Uganda,Kosovo,1
+Uganda,France,2
+Uganda,Comoros,1
+Uganda,Taiwan,1
+Uganda,Guadeloupe,1
+Uganda,Georgia,1
+Uganda,Italy,1
+Nigeria,Yemen,2
+Nigeria,Cameroon,2
+Nigeria,Iran,2
+Nigeria,Senegal,1
+Nigeria,Papua New Guinea,1
+Nigeria,Sudan,1
+Nigeria,Angola,1
+Nigeria,Azerbaijan,1
+Nigeria,French Guiana,1
+Nigeria,Mali,1
+Nigeria,Kosovo,1
+Nigeria,France,1
+Nigeria,Comoros,1
+Nigeria,Taiwan,1
+Nigeria,Guadeloupe,1
+Nigeria,Georgia,1
+Nigeria,Italy,2
+Yemen,Cameroon,2
+Yemen,Iran,1
+Yemen,Senegal,1
+Yemen,Papua New Guinea,1
+Yemen,Sudan,1
+Yemen,Angola,1
+Yemen,Azerbaijan,1
+Yemen,French Guiana,1
+Yemen,Mali,1
+Yemen,Kosovo,1
+Yemen,Comoros,1
+Yemen,Taiwan,1
+Yemen,Guadeloupe,1
+Yemen,Georgia,1
+Yemen,Italy,1
+Cameroon,Iran,1
+Cameroon,Senegal,1
+Cameroon,Papua New Guinea,1
+Cameroon,Sudan,1
+Cameroon,Angola,1
+Cameroon,Azerbaijan,1
+Cameroon,French Guiana,1
+Cameroon,Mali,1
+Cameroon,Kosovo,1
+Cameroon,France,1
+Cameroon,Comoros,1
+Cameroon,Taiwan,1
+Cameroon,Guadeloupe,1
+Cameroon,Georgia,1
+Cameroon,Italy,1
+Iran,Senegal,1
+Iran,Papua New Guinea,1
+Iran,Sudan,1
+Iran,Angola,1
+Iran,Azerbaijan,1
+Iran,French Guiana,1
+Iran,Mali,1
+Iran,Kosovo,1
+Iran,France,3
+Iran,Comoros,1
+Iran,Taiwan,1
+Iran,Guadeloupe,1
+Iran,Georgia,1
+Iran,Italy,2
+Senegal,Papua New Guinea,1
+Senegal,Sudan,1
+Senegal,Angola,1
+Senegal,Azerbaijan,1
+Senegal,French Guiana,1
+Senegal,Mali,1
+Senegal,Kosovo,1
+Senegal,France,1
+Senegal,Comoros,1
+Senegal,Taiwan,1
+Senegal,Guadeloupe,1
+Senegal,Georgia,1
+Senegal,Italy,1
+Papua New Guinea,Sudan,1
+Papua New Guinea,Angola,1
+Papua New Guinea,Azerbaijan,1
+Papua New Guinea,French Guiana,1
+Papua New Guinea,Mali,1
+Papua New Guinea,Kosovo,1
+Papua New Guinea,France,1
+Papua New Guinea,Comoros,1
+Papua New Guinea,Taiwan,1
+Papua New Guinea,Guadeloupe,1
+Papua New Guinea,Georgia,1
+Papua New Guinea,Italy,1
+Sudan,Angola,2
+Sudan,Azerbaijan,1
+Sudan,French Guiana,1
+Sudan,Mali,1
+Sudan,Kosovo,1
+Sudan,France,1
+Sudan,Comoros,1
+Sudan,Taiwan,1
+Sudan,Guadeloupe,1
+Sudan,Georgia,1
+Sudan,Italy,1
+Angola,Azerbaijan,1
+Angola,French Guiana,1
+Angola,Mali,1
+Angola,Kosovo,1
+Angola,France,1
+Angola,Comoros,1
+Angola,Taiwan,1
+Angola,Guadeloupe,1
+Angola,Georgia,1
+Angola,Italy,1
+Azerbaijan,French Guiana,1
+Azerbaijan,Mali,1
+Azerbaijan,Kosovo,1
+Azerbaijan,France,1
+Azerbaijan,Comoros,1
+Azerbaijan,Taiwan,1
+Azerbaijan,Guadeloupe,1
+Azerbaijan,Georgia,1
+Azerbaijan,Italy,1
+French Guiana,Mali,1
+French Guiana,Kosovo,1
+French Guiana,France,1
+French Guiana,Comoros,1
+French Guiana,Taiwan,1
+French Guiana,Guadeloupe,1
+French Guiana,Georgia,1
+French Guiana,Italy,1
+Mali,Kosovo,1
+Mali,France,1
+Mali,Comoros,1
+Mali,Taiwan,1
+Mali,Guadeloupe,1
+Mali,Georgia,1
+Mali,Italy,1
+Kosovo,France,1
+Kosovo,Comoros,1
+Kosovo,Taiwan,1
+Kosovo,Guadeloupe,1
+Kosovo,Georgia,1
+Kosovo,Italy,1
+France,Comoros,1
+France,Taiwan,1
+France,Guadeloupe,1
+France,Georgia,1
+France,Italy,1
+Comoros,Taiwan,1
+Comoros,Guadeloupe,1
+Comoros,Georgia,1
+Comoros,Italy,1
+Taiwan,Guadeloupe,1
+Taiwan,Georgia,1
+Taiwan,Italy,1
+Guadeloupe,Georgia,1
+Guadeloupe,Italy,1
+Georgia,Italy,1
+Afghanistan,Sri Lanka,3
+Afghanistan,Philippines,2
+Afghanistan,Bangladesh,2
+Afghanistan,Thailand,2
+Afghanistan,Indonesia,2
+Afghanistan,Algeria,2
+Afghanistan,Egypt,1
+Afghanistan,Nigeria,3
+Afghanistan,Cameroon,1
+Afghanistan,Lebanon,3
+Afghanistan,Tajikistan,1
+Afghanistan,Ecuador,1
+Sri Lanka,Philippines,5
+Sri Lanka,Algeria,2
+Sri Lanka,Egypt,1
+Sri Lanka,Lebanon,3
+Sri Lanka,Tajikistan,1
+Sri Lanka,Ecuador,1
+Sri Lanka,West Bank and Gaza Strip,2
+India,Algeria,3
+India,Egypt,1
+India,Lebanon,4
+India,Tajikistan,1
+India,Ecuador,1
+India,West Bank and Gaza Strip,2
+Pakistan,Algeria,2
+Pakistan,Egypt,1
+Pakistan,Lebanon,3
+Pakistan,Tajikistan,1
+Pakistan,Ecuador,1
+Philippines,Bangladesh,3
+Philippines,Thailand,4
+Philippines,Indonesia,3
+Philippines,Algeria,2
+Philippines,Turkey,2
+Philippines,Egypt,1
+Philippines,Nigeria,2
+Philippines,Yemen,1
+Philippines,Cameroon,1
+Philippines,Lebanon,4
+Philippines,Tajikistan,1
+Philippines,Ecuador,1
+Philippines,West Bank and Gaza Strip,2
+Bangladesh,Algeria,1
+Bangladesh,Egypt,1
+Bangladesh,Lebanon,2
+Bangladesh,Tajikistan,1
+Bangladesh,Ecuador,1
+Bangladesh,West Bank and Gaza Strip,2
+Thailand,Algeria,2
+Thailand,Egypt,1
+Thailand,Lebanon,2
+Thailand,Tajikistan,1
+Thailand,Ecuador,1
+Thailand,West Bank and Gaza Strip,2
+Indonesia,Algeria,1
+Indonesia,Egypt,1
+Indonesia,Lebanon,1
+Indonesia,Tajikistan,1
+Indonesia,Ecuador,1
+Indonesia,West Bank and Gaza Strip,2
+Algeria,Turkey,1
+Algeria,Egypt,1
+Algeria,Nigeria,2
+Algeria,Yemen,1
+Algeria,Cameroon,1
+Algeria,Lebanon,1
+Algeria,Tajikistan,1
+Algeria,Ecuador,1
+Algeria,West Bank and Gaza Strip,1
+Turkey,Egypt,1
+Turkey,Lebanon,2
+Turkey,Tajikistan,1
+Turkey,Ecuador,1
+Egypt,Nigeria,1
+Egypt,Yemen,1
+Egypt,Cameroon,1
+Egypt,Lebanon,1
+Egypt,Tajikistan,1
+Egypt,Ecuador,1
+Egypt,West Bank and Gaza Strip,1
+Nigeria,Lebanon,3
+Nigeria,Tajikistan,1
+Nigeria,Ecuador,1
+Nigeria,West Bank and Gaza Strip,2
+Yemen,Lebanon,1
+Yemen,Tajikistan,1
+Yemen,Ecuador,1
+Cameroon,Lebanon,1
+Cameroon,Tajikistan,1
+Cameroon,Ecuador,1
+Cameroon,West Bank and Gaza Strip,1
+Lebanon,Tajikistan,1
+Lebanon,Ecuador,1
+Lebanon,West Bank and Gaza Strip,1
+Tajikistan,Ecuador,1
+Tajikistan,West Bank and Gaza Strip,1
+Ecuador,West Bank and Gaza Strip,1
+India,Bhutan,1
+China,Kyrgyzstan,1
+Thailand,Cambodia,1
+Sri Lanka,China,1
+Sri Lanka,Ghana,1
+India,China,2
+India,Ghana,1
+Pakistan,China,1
+Pakistan,Ghana,1
+Philippines,China,2
+Philippines,Iran,4
+Philippines,Ghana,1
+Bangladesh,China,1
+Bangladesh,Ghana,1
+Thailand,China,3
+Thailand,Ghana,1
+Indonesia,China,1
+Indonesia,Ghana,1
+China,Nigeria,1
+China,Iran,1
+China,Ghana,1
+China,West Bank and Gaza Strip,1
+Nigeria,Ghana,1
+Iran,Ghana,1
+Iran,West Bank and Gaza Strip,1
+Ghana,West Bank and Gaza Strip,1
+India,Russia,2
+Philippines,Russia,2
+Thailand,Russia,1
+China,Russia,1
+Afghanistan,Azerbaijan,1
+Afghanistan,Haiti,1
+Pakistan,Haiti,1
+Bangladesh,Haiti,1
+Indonesia,Haiti,1
+Azerbaijan,Haiti,1
+Pakistan,Peru,1
+Pakistan,Belgium,1
+Iraq,Peru,1
+Iraq,Somalia,1
+Iraq,Lebanon,2
+Iraq,Belgium,1
+Nigeria,Peru,1
+Nigeria,Somalia,1
+Nigeria,Belgium,1
+Peru,Somalia,1
+Peru,Lebanon,3
+Peru,Belgium,1
+Somalia,Lebanon,1
+Somalia,Belgium,1
+Lebanon,Belgium,1
+Philippines,Honduras,2
+Philippines,Guatemala,3
+Philippines,Italy,1
+Philippines,Portugal,1
+Bangladesh,Malaysia,1
+Bangladesh,Honduras,1
+Bangladesh,Guatemala,1
+Bangladesh,Portugal,1
+Thailand,Malaysia,1
+Thailand,Honduras,1
+Thailand,Guatemala,1
+Thailand,Portugal,1
+Iran,Lebanon,3
+Iran,Malaysia,1
+Iran,Honduras,2
+Iran,Guatemala,3
+Iran,Portugal,1
+Lebanon,Malaysia,1
+Lebanon,Honduras,2
+Lebanon,Guatemala,3
+Lebanon,Italy,2
+Lebanon,Portugal,1
+Malaysia,Honduras,1
+Malaysia,Guatemala,1
+Malaysia,Italy,1
+Malaysia,Portugal,1
+Honduras,Guatemala,2
+Honduras,Italy,1
+Honduras,Portugal,1
+Guatemala,Italy,1
+Guatemala,Portugal,1
+Italy,Portugal,1
+Sri Lanka,El Salvador,3
+Philippines,El Salvador,3
+Afghanistan,Iraq,2
+Afghanistan,Syria,1
+Afghanistan,Saudi Arabia,1
+Afghanistan,Switzerland,1
+Afghanistan,Greece,1
+Afghanistan,Italy,1
+India,Syria,1
+India,Saudi Arabia,1
+India,Switzerland,1
+India,Greece,1
+Pakistan,Syria,1
+Pakistan,Saudi Arabia,1
+Pakistan,Switzerland,1
+Pakistan,Greece,1
+Iraq,Syria,1
+Iraq,Saudi Arabia,1
+Iraq,Switzerland,1
+Iraq,Greece,1
+Nigeria,Syria,1
+Nigeria,Saudi Arabia,1
+Nigeria,Switzerland,1
+Nigeria,Greece,1
+Lebanon,Syria,1
+Lebanon,Saudi Arabia,1
+Lebanon,Switzerland,1
+Lebanon,Greece,1
+Syria,Saudi Arabia,1
+Syria,Switzerland,1
+Syria,Greece,1
+Syria,Italy,1
+Saudi Arabia,Switzerland,1
+Saudi Arabia,Greece,1
+Saudi Arabia,Italy,1
+Switzerland,Greece,1
+Switzerland,Italy,1
+Greece,Italy,1
+Algeria,Iraq,1
+India,United Kingdom,3
+Nepal,Uganda,1
+Nepal,Sudan,1
+Nepal,Angola,1
+Nepal,Burundi,1
+Nepal,Mozambique,1
+Uganda,Burundi,1
+Uganda,Mozambique,1
+Sudan,Burundi,1
+Sudan,Mozambique,1
+Angola,Burundi,1
+Angola,Mozambique,1
+Burundi,Mozambique,1
+India,Ivory Coast,1
+Pakistan,Ivory Coast,1
+Bangladesh,Ivory Coast,1
+Yemen,Ivory Coast,1
+Myanmar,China,1
+Afghanistan,Uganda,1
+Afghanistan,El Salvador,1
+Afghanistan,Peru,1
+Afghanistan,Iran,1
+Afghanistan,Honduras,1
+Afghanistan,Guatemala,1
+Afghanistan,Colombia,1
+Afghanistan,Zimbabwe,1
+Afghanistan,Nicaragua,1
+Afghanistan,Russia,1
+Sri Lanka,United Kingdom,2
+Sri Lanka,Peru,2
+Sri Lanka,Honduras,1
+Sri Lanka,Guatemala,2
+Sri Lanka,Colombia,1
+Sri Lanka,Zimbabwe,1
+Sri Lanka,Nicaragua,1
+Sri Lanka,Russia,1
+India,El Salvador,2
+India,Honduras,1
+India,Guatemala,2
+India,Colombia,1
+India,Zimbabwe,1
+India,Nicaragua,1
+Philippines,United Kingdom,2
+Philippines,Uganda,1
+Philippines,Peru,2
+Philippines,Colombia,1
+Philippines,Zimbabwe,1
+Philippines,Nicaragua,1
+Philippines,France,2
+United Kingdom,Uganda,1
+United Kingdom,El Salvador,2
+United Kingdom,Peru,2
+United Kingdom,Iran,2
+United Kingdom,Lebanon,2
+United Kingdom,Honduras,1
+United Kingdom,Guatemala,2
+United Kingdom,Colombia,1
+United Kingdom,Zimbabwe,1
+United Kingdom,Nicaragua,1
+United Kingdom,Russia,1
+Uganda,El Salvador,1
+Uganda,Peru,1
+Uganda,Lebanon,1
+Uganda,Honduras,1
+Uganda,Guatemala,1
+Uganda,Colombia,1
+Uganda,Zimbabwe,1
+Uganda,Nicaragua,1
+Uganda,Russia,1
+El Salvador,Peru,2
+El Salvador,Iran,2
+El Salvador,Lebanon,2
+El Salvador,Honduras,1
+El Salvador,Guatemala,2
+El Salvador,Colombia,1
+El Salvador,Zimbabwe,1
+El Salvador,Nicaragua,1
+El Salvador,France,2
+El Salvador,Russia,1
+Peru,Iran,2
+Peru,Honduras,1
+Peru,Guatemala,2
+Peru,Colombia,1
+Peru,Zimbabwe,1
+Peru,Nicaragua,1
+Peru,France,2
+Peru,Russia,1
+Iran,Colombia,1
+Iran,Zimbabwe,1
+Iran,Nicaragua,1
+Iran,Russia,1
+Lebanon,Colombia,1
+Lebanon,Zimbabwe,1
+Lebanon,Nicaragua,1
+Lebanon,France,2
+Lebanon,Russia,1
+Honduras,Colombia,1
+Honduras,Zimbabwe,1
+Honduras,Nicaragua,1
+Honduras,France,1
+Honduras,Russia,1
+Guatemala,Colombia,1
+Guatemala,Zimbabwe,1
+Guatemala,Nicaragua,1
+Guatemala,France,2
+Guatemala,Russia,1
+Colombia,Zimbabwe,1
+Colombia,Nicaragua,1
+Colombia,France,1
+Colombia,Russia,1
+Zimbabwe,Nicaragua,1
+Zimbabwe,France,1
+Zimbabwe,Russia,1
+Nicaragua,France,1
+Nicaragua,Russia,1
+France,Russia,1
+Sri Lanka,Chile,1
+Sri Lanka,Venezuela,1
+Sri Lanka,Israel,1
+India,Chile,1
+India,Venezuela,1
+India,Israel,1
+Philippines,Chile,1
+Philippines,Venezuela,1
+Philippines,Israel,1
+United Kingdom,Chile,1
+United Kingdom,Venezuela,1
+United Kingdom,Israel,1
+Turkey,El Salvador,1
+Turkey,Peru,1
+Turkey,Guatemala,1
+Turkey,Chile,1
+Turkey,Venezuela,1
+Turkey,Israel,1
+El Salvador,Chile,1
+El Salvador,Venezuela,1
+El Salvador,Israel,1
+Peru,Chile,1
+Peru,Venezuela,1
+Peru,Israel,1
+Iran,Chile,1
+Iran,Venezuela,1
+Iran,Israel,1
+Lebanon,Chile,1
+Lebanon,Venezuela,1
+Lebanon,Israel,1
+Guatemala,Chile,1
+Guatemala,Venezuela,1
+Guatemala,Israel,1
+France,Chile,1
+France,Venezuela,1
+France,Israel,1
+Chile,Venezuela,1
+Chile,Israel,1
+Venezuela,Israel,1

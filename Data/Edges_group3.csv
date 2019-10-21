@@ -1,0 +1,125 @@
+Source,Target,Weight
+Nigeria,Cameroon,2
+Nigeria,Niger,1
+Nigeria,Mali,2
+Nigeria,Chad,1
+Nigeria,Burkina Faso,1
+Cameroon,Niger,1
+Cameroon,Mali,1
+Cameroon,Chad,1
+Cameroon,Burkina Faso,1
+Niger,Mali,4
+Niger,Chad,1
+Niger,Burkina Faso,2
+Mali,Chad,1
+Mali,Burkina Faso,3
+Chad,Burkina Faso,1
+Somalia,Uganda,1
+Somalia,Ethiopia,2
+Somalia,Kenya,1
+Somalia,Djibouti,1
+Somalia,Tanzania,1
+Uganda,Ethiopia,1
+Uganda,Kenya,1
+Uganda,Djibouti,1
+Uganda,Tanzania,1
+Ethiopia,Kenya,2
+Ethiopia,Djibouti,1
+Ethiopia,Tanzania,1
+Kenya,Djibouti,1
+Kenya,Tanzania,1
+Djibouti,Tanzania,1
+Democratic Republic of the Congo,Burundi,3
+Democratic Republic of the Congo,Rwanda,3
+Democratic Republic of the Congo,Uganda,3
+Democratic Republic of the Congo,United Kingdom,1
+Burundi,Rwanda,3
+Burundi,Uganda,1
+Burundi,United Kingdom,1
+Rwanda,Uganda,1
+Rwanda,United Kingdom,1
+Uganda,United Kingdom,1
+Angola,Namibia,1
+Angola,Zambia,1
+Namibia,Zambia,2
+Nigeria,Democratic Republic of the Congo,1
+Nigeria,Central African Republic,1
+Democratic Republic of the Congo,Central African Republic,2
+Democratic Republic of the Congo,Mali,1
+Central African Republic,Mali,1
+Democratic Republic of the Congo,Sudan,1
+Sudan,Uganda,2
+Sudan,Central African Republic,1
+Uganda,Central African Republic,1
+Mozambique,South Africa,2
+Mozambique,Zambia,2
+Mozambique,Zimbabwe,1
+Mozambique,Swaziland,2
+South Africa,Zambia,2
+South Africa,Zimbabwe,1
+South Africa,Swaziland,2
+Zambia,Zimbabwe,2
+Zambia,Swaziland,2
+Zimbabwe,Swaziland,1
+Mozambique,Namibia,1
+Mozambique,Botswana,1
+Mozambique,France,1
+South Africa,Namibia,2
+South Africa,Botswana,1
+South Africa,France,1
+Namibia,Swaziland,1
+Namibia,Botswana,1
+Namibia,France,1
+Zambia,Botswana,1
+Zambia,France,1
+Swaziland,Botswana,1
+Swaziland,France,1
+Botswana,France,1
+Cameroon,Central African Republic,2
+Sierra Leone,Guinea,2
+Sudan,Chad,2
+Nigeria,Equatorial Guinea,1
+Cameroon,Equatorial Guinea,1
+Sudan,Sri Lanka,1
+Sudan,Fiji,1
+Sudan,Indonesia,1
+Sudan,Lebanon,1
+Sri Lanka,Fiji,1
+Sri Lanka,Indonesia,1
+Sri Lanka,Lebanon,1
+Fiji,Indonesia,1
+Fiji,Lebanon,1
+Indonesia,Lebanon,1
+Sudan,Libya,1
+Chad,Libya,1
+Democratic Republic of the Congo,Republic of the Congo,1
+Sierra Leone,Liberia,1
+Liberia,Guinea,1
+Niger,Algeria,2
+Mali,Algeria,3
+Niger,Libya,1
+Mali,Libya,1
+Algeria,Libya,1
+Sierra Leone,Haiti,1
+Sierra Leone,Togo,1
+Sierra Leone,Fiji,1
+Sierra Leone,Comoros,1
+Sierra Leone,Peru,1
+Sierra Leone,Venezuela,1
+Haiti,Togo,1
+Haiti,Fiji,1
+Haiti,Comoros,1
+Haiti,Peru,1
+Haiti,Venezuela,1
+Togo,Fiji,1
+Togo,Comoros,1
+Togo,Peru,1
+Togo,Venezuela,1
+Fiji,Comoros,1
+Fiji,Peru,1
+Fiji,Venezuela,1
+Comoros,Peru,1
+Comoros,Venezuela,1
+Peru,Venezuela,1
+Algeria,Burkina Faso,1
+Republic of the Congo,Indonesia,1
