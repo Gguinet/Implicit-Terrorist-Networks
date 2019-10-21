@@ -1,1 +1,5 @@
-# Implicit-Terrorist-Networks
+# Implicit Terrorist Networks: A Social Network Analysis of Global Terrorism
+
+__Is there any order in the apparent chaos of the internation terrorist landscape ?__  
+
+Working in collaboration with a team of INRIA researchers, we were able to study the main terrorist networks worldwide, asking ourseleves if they were any similarities between apparently disconnected groups. What we meant by similarities was clearly to be defined in our work. Luckily, we had access to the Global Terrorism Database, a massive database of more than 190,000 domestic and international terrorist events around the world since 1970. Connecting this database with others, we used graph clustering and unsupervised machine learning tools in order to find a latent structure. This was made possible by the introduction of a metric whose purpose was to estimate the distance between groups by taking into account more than thirty factors (geography, similarity of attacks, magnitude, targets...). Bellow are the four main clusters that emerged from our work.
